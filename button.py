@@ -6,7 +6,7 @@ class Button:
         '''
         pass
 
-        # self.exception_handler()  # DOES NOT WORK!!!
+        # self.exception_handler()  # DOES NOT WORK!
 
     def exception_handler():  # TODO DA. YES.
         if not(isinstance(self.left_top, tuple) and isinstance(self.right_bottom, tuple)):
